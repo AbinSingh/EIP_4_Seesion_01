@@ -1,4 +1,4 @@
-# EIP_4_Seesion_01
+# EIP_4_Session_01
 
 Print(Score)
 [0.02730164076744113, 0.9901]
