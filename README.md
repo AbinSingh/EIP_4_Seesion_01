@@ -1,6 +1,7 @@
 # EIP_4_Seesion_01
 
-
+Print(Score)
+[0.02730164076744113, 0.9901]
 
 1. Convolution
 
